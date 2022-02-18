@@ -1,3 +1,8 @@
+DROP DATABASE IF EXISTS all_employees;
+CREATE DATABASE all_employees;
+
+USE all_employees;
+
 DROP TABLE IF EXISTS departments;
 DROP TABLE IF EXISTS roles;
 DROP TABLE IF EXISTS employee;

@@ -1,3 +1,5 @@
+USE all_employees;
+
 INSERT INTO departments(id, department_name)
 VALUES
 (001, "Management"),
